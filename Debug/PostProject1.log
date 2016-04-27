@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\ldsla\documents\visual studio 2015\projects\postproject1\postproject1\main.cpp(100): warning C4244: 'argument': conversion from 'double' to 'UINT', possible loss of data
+  PostProject1.vcxproj -> C:\Users\ldsla\documents\visual studio 2015\Projects\PostProject1\Debug\PostProject1.exe
